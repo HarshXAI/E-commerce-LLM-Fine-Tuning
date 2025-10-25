@@ -1,0 +1,19 @@
+google-generativeai
+# python-dotenv
+langchain
+PyPDF2
+chromadb
+pdf2image
+faiss-cpu
+langchain_google_genai
+pandas
+openpyxl
+torch
+transformers
+# bitsandbytes
+# gradio
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+faiss-cpu

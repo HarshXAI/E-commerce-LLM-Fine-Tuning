@@ -1,0 +1,112 @@
+customer_id,email,age,gender,location,product_id,product_name,category,subcategory,price,brand,shipping_address,purchase_date,delivery_status,return_status,discount_applied,product_rating
+b5b89166-2ba1-4131-bce2-9221e16f4e40,hbali@kalita-raj.net,59,Female,Ahmedabad,e28eb3b7-ba11-472e-81ba-6c6d2e5236ce,Kurta,Fashion,Fashion,41706.03,Nike,"27
+Vohra Zila
+Vasai-Virar 574989",2023-03-12,Out for Delivery,Not Returned,5,5.0
+6e8ecc61-678a-48d8-aa9b-f9f47a53a036,hshah@hotmail.com,27,Male,Bangalore,50cc6dab-b728-434f-a689-ce4d5736ed47,Smartwatch,Electronics,Electronics,45849.21,Xiaomi,"H.No. 71, Butala Marg
+Faridabad 624194",2023-05-14,Returned,Returned,25,4.0
+9136cd1c-d19d-483b-9bcf-29ff9b5181c9,prisha46@gmail.com,60,Other,Lucknow,da310182-405d-4a78-9876-127b0aa8c226,Mixer Grinder,Home & Kitchen,Home & Kitchen,43382.81,Usha,"28/66, Tripathi Zila
+Aizawl-703373",2023-04-05,Out for Delivery,Not Returned,30,
+368aea40-3cff-449a-8550-73728f0f171f,ranbirkulkarni@yahoo.com,52,Male,Ahmedabad,617fd359-dc47-4105-b842-8885191e2f40,Smartwatch,Electronics,Electronics,46259.12,OnePlus,"05/62
+Randhawa Circle
+Raurkela Industrial Township-618204",2023-04-20,In Transit,Returned,30,2.0
+805bb537-492f-4f18-ae29-17503b61884b,kamdarpiya@lata-kannan.com,58,Male,Jaipur,dad2be9a-d162-457d-a907-508862b54946,Hair Dryer,Beauty & Personal Care,Beauty & Personal Care,27261.33,Loreal,"26/726
+Deep Road
+Sikar 547309",2023-09-14,Out for Delivery,Exchange Requested,25,4.5
+68ea8935-92cf-4678-97fc-564423ee19f4,hanshsoni@rau.info,25,Female,Bangalore,4a227578-b0cb-45fb-a390-7c97b0b75102,Spices,Groceries,Groceries,18578.57,Aashirvaad,"10, Bhargava Circle
+Ratlam-426689",2023-04-27,In Transit,Returned,5,5.0
+06ef4f31-554d-4d95-b8aa-d04b9e8b7926,nkhurana@bahl.com,39,Female,Kolkata,204c39c1-d225-42e7-bf1c-c802edb569c6,Mixer Grinder,Home & Kitchen,Home & Kitchen,7982.85,Usha,"40/08
+Gara Chowk, Eluru 702375",2023-06-12,Delivered,Exchange Requested,5,1.5
+32ccaa43-c8aa-43f5-a6bc-f704db083f85,daniamira@banerjee.biz,54,Male,Mumbai,ce6136ed-8c6a-4102-8c49-b3e3836c358d,Shirt,Fashion,Fashion,14231.44,Manyavar,"50/263
+Chander Path
+Khammam 686268",2024-06-21,Out for Delivery,Not Returned,20,4.0
+1097a52d-5ce8-48d3-87aa-4dabaa4910c4,himmatdutta@singhal-kunda.com,38,Other,Pune,155dda8e-480f-4826-8b63-68c59d6810e4,Cooking Oil,Groceries,Groceries,19765.9,Tata,"62/059, Rau Road
+Mira-Bhayandar-865053",2024-08-10,In Transit,Not Returned,20,4.5
+f35b1cee-734b-4dcd-a0ab-f70ca501262d,borarohan@maharaj.com,52,Female,Chennai,350f413d-83c2-4320-a656-4d262010ebc3,Wheat Flour,Groceries,Groceries,27831.12,Aashirvaad,"04/781
+Warrior Chowk
+Ahmednagar-699721",2023-08-02,Delivered,Returned,5,5.0
+509325f8-f87a-493c-80cc-c05011a70218,anay73@gmail.com,55,Other,Lucknow,f05e7885-33a0-40d7-9c68-1ea98d340a74,Smartwatch,Electronics,Electronics,9224.95,Apple,"09/85, Shukla Nagar, Secunderabad 548759",2023-12-25,Returned,Returned,15,4.5
+ac89881f-6364-4e2a-bbc5-4e7ece1124bf,sumersidhu@sura-bhasin.com,46,Male,Jaipur,b79919e3-4236-404c-a9eb-60d60c02ff0d,Perfume,Beauty & Personal Care,Beauty & Personal Care,14248.6,Lakme,"H.No. 107, Loke Ganj
+Mysore-608992",2023-11-28,Out for Delivery,Exchange Requested,10,4.0
+902f053c-3bbd-4342-b425-91204345b22e,indrajit00@hotmail.com,56,Female,Hyderabad,31e1c946-1724-4421-a095-31bfcc09a949,Water Purifier,Home & Kitchen,Home & Kitchen,26453.91,Prestige,"H.No. 72
+Singh Nagar
+Raichur-833537",2023-10-18,Returned,Exchange Requested,5,1.5
+08d176c7-7222-4d7a-8470-8abc780ecbf4,ivanbawa@yahoo.com,39,Other,Bangalore,4ed0af18-335e-44b6-9cd4-9e2381350f5a,Shirt,Fashion,Fashion,15150.35,Nike,"H.No. 461
+Shroff Chowk
+Kirari Suleman Nagar-030373",2023-07-07,Delivered,Returned,0,1.5
+1e701ced-d89d-4835-8960-eb7dd860188c,eshanigole@kapadia-badami.com,47,Other,Mumbai,7484dc83-af7c-4efd-9483-6f03b53cc460,Shirt,Fashion,Fashion,6757.26,Levi's,"25/482
+Devan
+Kollam 439900",2023-09-12,In Transit,Exchange Requested,5,5.0
+b6cba553-33c5-4e79-b365-d5b4019230df,lalanakul@yahoo.com,30,Other,Delhi,7521d778-456c-401b-8735-9e2a2640e66d,Dinner Set,Home & Kitchen,Home & Kitchen,38941.74,Usha,"H.No. 78
+Hayer Marg
+Anantapuram 482156",2023-12-16,Delivered,Exchange Requested,10,2.0
+cb9f46e5-a70a-4141-a723-95ad86629891,zkeer@hotmail.com,26,Female,Hyderabad,8d53880c-4063-4aff-9fe9-df120e1e466e,Laptop,Electronics,Electronics,38952.21,Apple,"14
+Arya Ganj
+Firozabad 222541",2023-10-14,Returned,Returned,15,
+22fe9194-64aa-48d0-b7e7-99976a490717,kairabajaj@gopal.com,59,Other,Chennai,aac97ee0-9641-4231-9b4f-54dea88bc792,Dinner Set,Home & Kitchen,Home & Kitchen,32169.19,Prestige,"23
+Dhar Path, Purnia 078523",2023-12-17,In Transit,Not Returned,25,4.0
+5d04f0b6-d924-45a5-a3cb-f9fdd5515e23,eravel@keer.com,21,Other,Lucknow,4448eb40-9ec5-4726-b66a-d65f03c53207,Sneakers,Fashion,Fashion,40697.77,Adidas,"17
+Ghosh Street, Kollam-029687",2024-08-11,Delivered,Not Returned,15,5.0
+1ec60f17-9069-4076-b651-b72161719db8,hhalder@yahoo.com,49,Other,Delhi,90f93f19-61e2-4920-a28d-47d7a28016f0,Shampoo,Beauty & Personal Care,Beauty & Personal Care,13351.25,Lakme,"H.No. 22, Goel Marg
+Delhi 862630",2025-02-11,Delivered,Not Returned,5,4.5
+dd12e874-de7e-439b-a34b-002ec3966fc6,ranakiara@ben.biz,35,Other,Bangalore,ea13d010-e631-4062-b060-d7b8d184f795,Cooking Oil,Groceries,Groceries,4736.83,Tata,"H.No. 38
+Grover Marg
+Nadiad-720576",2025-02-13,Returned,Exchange Requested,20,4.5
+46c75b72-8c5a-473f-84aa-73b127cf3b9b,luthrasamarth@hotmail.com,23,Other,Ahmedabad,7f6975a4-e09b-4704-b8fd-91c6d0d80fe9,Mobile Phone,Electronics,Electronics,3084.7,OnePlus,"31/910
+Sarkar Chowk, Amravati-730889",2024-06-16,Out for Delivery,Returned,15,4.5
+c790129b-457c-4960-9384-28021d326f3e,vermadharmajan@comar.com,50,Male,Hyderabad,45e30538-9007-4d93-871e-edde4f99f4b9,Laptop,Electronics,Electronics,4919.99,Samsung,"323, Suri Chowk
+Danapur 036565",2023-08-04,Out for Delivery,Exchange Requested,15,4.0
+10230281-3478-40aa-bd5b-df72ae1349a1,khalsaira@hotmail.com,27,Other,Kolkata,41ab6bb5-1b6c-49ad-952b-a978c8a2b1a9,Dinner Set,Home & Kitchen,Home & Kitchen,48925.95,Havells,"76/019, Desai Circle
+Amroha-459533",2023-03-30,Out for Delivery,Returned,0,4.5
+33e78ebf-05a5-47ad-b2a4-ae93ffdd091e,bhavin54@gmail.com,38,Female,Bangalore,3fcbdc97-90b6-4925-b1df-1b77bcf1f24e,Smartwatch,Electronics,Electronics,10908.43,OnePlus,"H.No. 24
+Hari Zila
+Guna 466430",2023-11-01,Delivered,Returned,30,5.0
+cfb1e0fb-c2f8-49b0-9a91-f2a76dbebdc7,kuruvillayasmin@khalsa.com,32,Other,Ahmedabad,c15fa216-19f9-40dc-ac39-82880b5d41e7,Face Wash,Beauty & Personal Care,Beauty & Personal Care,38705.34,Himalaya,"05/272, Vyas Circle, Suryapet 303600",2025-02-12,Delivered,Exchange Requested,15,1.5
+db5e1164-bf9a-40ef-be56-b12b365c29ca,dsharma@yahoo.com,38,Other,Bangalore,3ab51cec-fd43-40d2-bae4-af0862e63229,Kurta,Fashion,Fashion,804.36,Levi's,"94
+Raval Path
+Amravati 365534",2023-07-27,Out for Delivery,Exchange Requested,15,4.5
+000f3d61-09c2-4238-b45c-e3a016ab79f7,thakurjivin@tella.com,41,Female,Mumbai,ccb59d1e-7074-42f2-9d01-92f86392c8b5,Smartwatch,Electronics,Electronics,28048.17,Samsung,"58/07, Suresh Zila, Shimla-426734",2023-06-14,In Transit,Not Returned,15,3.0
+12542937-bf35-42bf-a2bd-4e4a126ea458,eshanigara@gmail.com,27,Female,Bangalore,c7cf038b-6efb-4e98-ac0d-c090447d62e2,Lipstick,Beauty & Personal Care,Beauty & Personal Care,17698.73,Dove,"14/948, Bal Street, Saharsa-219229",2023-08-10,Out for Delivery,Exchange Requested,0,4.5
+9dfaf099-11e1-4535-a0d5-8927ccb1e04e,kimaya81@gmail.com,58,Other,Kolkata,f652b352-3832-4d58-8f13-698394f6aa5e,Mattress,Home & Kitchen,Home & Kitchen,11660.42,Godrej,"974
+Sankaran Circle, Raichur 551687",2024-03-27,Delivered,Not Returned,20,2.0
+1a5d8514-4996-4003-84da-4cdf8c4066f7,fsem@yahoo.com,25,Female,Ahmedabad,27edea01-5de5-4b47-b768-786f4ff5f2fe,Spices,Groceries,Groceries,2222.88,Fortune,"H.No. 70, Jayaraman Path
+Gangtok 579993",2023-11-27,Returned,Exchange Requested,0,3.0
+cfb92d60-b418-4e69-b90b-259c4a3abff1,banikanaya@sibal-setty.org,38,Male,Mumbai,2729e3d2-6691-4086-9bbf-bba3ca9d2fcf,Curtains,Home & Kitchen,Home & Kitchen,19243.82,Prestige,"440, Srivastava Nagar
+Khandwa 116895",2024-02-25,In Transit,Exchange Requested,5,5.0
+372cc246-0614-4934-9675-ce4d705d8bc3,advikadoctor@gmail.com,43,Male,Bangalore,50f85382-d40b-4cda-bee1-c315beb5c33d,Face Wash,Beauty & Personal Care,Beauty & Personal Care,45639.27,Himalaya,"H.No. 73
+Zachariah Path
+Surendranagar Dudhrej 870074",2023-04-11,In Transit,Not Returned,10,4.5
+45496e1d-9b47-4c98-ae8d-7ccc10ab2cad,xchaudhry@hotmail.com,55,Male,Mumbai,4b8432fd-8be7-40fd-a5cf-6f195c8a8d7d,Mattress,Home & Kitchen,Home & Kitchen,37483.31,Havells,"39/629, Khosla Marg, Karawal Nagar-002351",2025-01-02,In Transit,Returned,25,2.0
+bbaae4aa-4127-448c-9135-a0fd86a91d14,raniaissac@hotmail.com,32,Female,Delhi,8e318490-d41f-48d8-83cc-43a4058f2b3c,Dinner Set,Home & Kitchen,Home & Kitchen,18462.37,Prestige,"H.No. 20, Kala, Bhind 875727",2024-06-20,In Transit,Not Returned,15,5.0
+89a554e0-64e6-4527-9e7b-80373b857092,boasezoya@dewan.com,34,Other,Lucknow,2c973cd6-c047-4eff-b0a4-435fde76d1d9,Hair Dryer,Beauty & Personal Care,Beauty & Personal Care,40197.78,Lakme,"25, Mangat Nagar, Saharanpur-071434",2024-07-19,In Transit,Exchange Requested,25,5.0
+c40f0893-ba30-4a11-bb30-3ad365164f4f,mahikasami@basak.com,47,Other,Jaipur,55f537ef-9ee1-4a62-81e8-70e0bb089b53,Smartwatch,Electronics,Electronics,6381.39,Samsung,"04, Deol Circle, Latur 766042",2024-05-22,Delivered,Returned,25,5.0
+9cbb931e-4088-4d65-8ea3-e0b6287bde21,hariprisha@yahoo.com,35,Other,Pune,ad7af723-8e63-4da4-853f-945aef10e590,Shampoo,Beauty & Personal Care,Beauty & Personal Care,4287.56,Dove,"H.No. 407
+Dhaliwal Chowk
+Howrah-782898",2024-08-07,In Transit,Exchange Requested,20,1.5
+a8e9be45-0ea2-4fb5-9357-0ed87e9b1c6f,dhillonritvik@chaudhry-manne.com,58,Other,Kolkata,2154c979-1660-4ed2-9528-5df4e9fde261,Sneakers,Fashion,Fashion,29808.92,FabIndia,"H.No. 370
+Khosla Chowk
+Bhopal 191393",2024-04-12,Out for Delivery,Not Returned,0,3.0
+29dc8435-228b-4674-9119-86f816e24274,zoya28@ganesh.biz,28,Other,Ahmedabad,38247271-1c9c-49b2-a4c0-0447223824c2,Lipstick,Beauty & Personal Care,Beauty & Personal Care,37562.81,Dove,"H.No. 727
+Basak Road
+Tezpur 739333",2023-09-21,In Transit,Returned,30,1.5
+c5ae144b-3ebd-424d-8d0c-101d022be0fb,dhruvkata@aggarwal.net,20,Male,Chennai,b16e0ff7-6356-42d5-a4de-5efa25a85616,Spices,Groceries,Groceries,8170.21,Fortune,"594
+Arya Marg
+Begusarai 983579",2024-04-12,Returned,Exchange Requested,5,
+04a538bb-35d8-4e63-b9b1-790a1afcbd20,anvikhare@sekhon.com,60,Female,Delhi,8cf1dee4-ce77-4710-9136-98dbeb729295,Tea Powder,Groceries,Groceries,33208.92,Tata,"23
+Borah Road, Bettiah-351609",2023-03-22,Out for Delivery,Returned,30,5.0
+dc9c0841-0137-41f8-bcf0-91f597483a8f,xmane@yahoo.com,59,Male,Delhi,a4a9fb5b-bffc-417d-b778-7b0bb203e51f,Lipstick,Beauty & Personal Care,Beauty & Personal Care,41368.62,Nivea,"H.No. 15
+Sahota Circle
+Ambarnath 810231",2025-02-09,Out for Delivery,Returned,10,1.5
+65962f07-89dc-4517-84ca-ade45ceae736,shankarinaaya@rana.com,20,Male,Mumbai,d79f8e0f-e4b0-41de-b2c5-cc384789f768,Perfume,Beauty & Personal Care,Beauty & Personal Care,8651.26,Nivea,"46/931, Verma Nagar
+Tiruppur-466350",2023-08-15,Returned,Returned,5,2.0
+ceb3b262-3663-4624-a8ab-2799d6555abf,wlata@hotmail.com,29,Female,Lucknow,e3b94751-ef3d-46ee-827d-d3dd4ba4fd80,Shampoo,Beauty & Personal Care,Beauty & Personal Care,6274.56,Dove,"56/447, Bahri Zila, Suryapet 549415",2024-12-26,Returned,Exchange Requested,10,
+31f7c964-da7f-498a-8fba-e6d305608e66,batrayuvraj@tripathi.biz,36,Male,Pune,a3f57a4b-3473-4de3-9808-becb2ac80481,Water Purifier,Home & Kitchen,Home & Kitchen,33373.91,Godrej,"H.No. 71
+Apte Path
+Mahbubnagar-314125",2023-10-16,In Transit,Returned,10,3.0
+77cf79cf-2b39-40f6-86e0-bab96946bde9,issacanika@ramesh.com,58,Female,Mumbai,7486c0df-5712-4290-9c1c-8272ea04c029,Mattress,Home & Kitchen,Home & Kitchen,3944.44,Usha,"15/48, Chatterjee Street
+Danapur 433756",2023-03-06,Delivered,Returned,20,
+a42cf54e-7eb0-4e66-b946-722796385cc2,ahayer@bakshi.com,44,Male,Mumbai,c0c59f3b-bd03-45bc-aee5-41d3aaeeb214,Perfume,Beauty & Personal Care,Beauty & Personal Care,13709.92,Nivea,"H.No. 04, Bassi Chowk, Ambarnath 814026",2023-08-16,In Transit,Not Returned,15,4.5
+bed516ed-5b87-4c14-b893-e413b790bb7c,ndevi@kapadia-korpal.net,28,Male,Chennai,8cf7da9b-350f-4af3-a2d4-abe4c958b5a6,Headphones,Electronics,Electronics,18798.73,Xiaomi,"462
+Sagar Zila
+Dharmavaram-375358",2023-09-04,Returned,Exchange Requested,20,4.5
+69782509-035b-4a10-b2ad-5163a205f58e,oorja00@yahoo.com,31,Male,Kolkata,80198450-da92-477a-9d9c-7c2b29e42cc5,Mattress,Home & Kitchen,Home & Kitchen,13017.24,Usha,"04/227, Manda Ganj
+Mysore 121914",2025-01-18,Delivered,Returned,10,5.0
